@@ -9,9 +9,11 @@ Para construir esse repositório, atribui fontes confiáveis e de professores qu
 Como construí algo relativamente simples, estou explorando os prompts na ferramenta e à medida que perceber algo relevante, estarei adicionando aqui.
 
 3. Curadoria de Fontes: 
+
 3.1. Fontes de vídeo:
 https://www.youtube.com/watch?v=N0XoBIH5lRQ 
 https://www.youtube.com/@ProfLucasSilva 
+
 3.2. Fontes de Texto:
 https://anbimaedu.com.br/ 
 https://professorlucassilva.com.br/ 
